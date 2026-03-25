@@ -86,6 +86,7 @@ nav ul li a:hover {
     text-align: center;
     color: white;
     margin-bottom: 20px;
+    padding: 80px 20px;
 }
 
 .hero-text h1 {
@@ -114,7 +115,7 @@ nav ul li a:hover {
     align-items: center;
     flex-direction: column;
     gap: 20px;
-    padding: 30px 20px;
+    padding: 80px 20px;
     background-size: cover;
     background-position: center;
     margin-bottom: 20px;
@@ -156,7 +157,7 @@ nav ul li a:hover {
 
 
 .works {
-    padding: 30px 20px;
+    padding: 80px 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -230,7 +231,7 @@ nav ul li a:hover {
 
 .about {
     background-color: #8b5a2b;
-    padding: 30px 20px;
+    padding: 80px 20px;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -282,7 +283,7 @@ nav ul li a:hover {
 
 .contact {
     background: url(vangoghmuseum.jpg) no-repeat center center/cover;
-    padding: 30px 20px;
+    padding: 70px 20px;
     text-align: center;
     margin-bottom: 5px;
 }
